@@ -1,0 +1,17 @@
+<div class="uk-grid-small uk-child-width-1-3@s uk-text-center" uk-grid="masonry: true">
+
+	{% for post in site.posts %}
+	
+	{% if post.year < 2020 %}
+<div class="post 2010s hide"> 
+	{% else %}
+<div class="post 2020s"> 
+	{% endif %}	
+     <a href="{{ site.url }}/art{{ post.url }}" title="{{ post.title }}, {{ post.date | date: '%B %Y' }}" data-caption="{{ post.title }} | {{ post.date | date: '%B %Y' }} | {{ post.excerpt }}">
+	     <img src="{{ site.url }}/art/img/thumbnails/{{ post.thumbnail }}" alt="{{ post.title }} by Feliz">
+	</a>	
+</div>
+
+    {% endfor %}
+	
+</div>
