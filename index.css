@@ -237,7 +237,7 @@ height:800px!important;
   margin-top:4px;
 }
 
-div.photo {
+div.photo img {
   background:var(--post);
 }
 
