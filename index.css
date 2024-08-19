@@ -245,10 +245,10 @@ html,
 html[data-theme="light"] {
 	--text-color: #000000;
 	--accent-color: #7926DC;
-	--card-color: #DEEEE4;
+	--card-color: whitesmoke;
 	--white-color: #ffffff;
 	--black-color: black;
-	--bg-color: #DEEEE4;
+	--bg-color: whitesmoke;
 	--shadows: rgba(125, 138, 124, 0.23);
 	--post: whitesmoke;
 	--bio:rgba(245,245,245,.8);
@@ -282,10 +282,10 @@ html[data-theme="dark"] {
 	html[data-theme="light"] {
 		--text-color: #000000;
 		--accent-color: #7926DC;
-		--card-color: #DEEEE4;
+		--card-color: whitesmoke;
 		--white-color: #ffffff;
 		--black-color: black;
-		--bg-color: #DEEEE4;
+		--bg-color: whitesmoke;
 		--shadows: rgba(125, 138, 124, 0.23);
 		--post: whitesmoke;
 		--bio:rgba(245,245,245,.8);
