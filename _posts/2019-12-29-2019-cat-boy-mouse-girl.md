@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cat Boy and Mouse Girl Sketch
+date: 2019-12-29
 img: 2019-cat-boy-mouse-girl.png
 thumbnail: 2019-cat-boy-mouse-girl-thumb.jpg
 comments: true
