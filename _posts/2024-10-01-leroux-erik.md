@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leroux's Erik
+date: 2024-10-01
 img: 2024-leroux-erik.jpg
 thumbnail: 2024-leroux-erik-thumb.jpg
 comments: true
