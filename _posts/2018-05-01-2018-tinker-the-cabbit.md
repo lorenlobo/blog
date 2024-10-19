@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tinker the Cabbit
+date: 2018-05-01
 img: 2018-tinker-the-cabbit.png
 thumbnail: 2018-tinker-the-cabbit-thumb.jpg
 comments: true
