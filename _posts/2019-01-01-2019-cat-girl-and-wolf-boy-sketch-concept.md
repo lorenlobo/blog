@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cat Girl and Wolf Boy Sketch
+date: 2019-01-01
 img: 2019-cat-girl-and-wolf-boy-sketch-concept.png
 thumbnail: 2019-cat-girl-and-wolf-boy-sketch-concept-thumb.jpg
 comments: true
