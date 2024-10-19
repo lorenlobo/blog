@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nagito Komaeda
+date: 2017-07-01
 img: 2017-nagito-komaeda.png
 thumbnail: 2017-nagito-komaeda-thumb.jpg
 comments: true
