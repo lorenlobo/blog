@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crying Loris
+date: 2018-06-01
 img: 2018-crying-rabbit-girl.png
 thumbnail: 2018-crying-rabbit-girl-thumb.jpg
 comments: true
