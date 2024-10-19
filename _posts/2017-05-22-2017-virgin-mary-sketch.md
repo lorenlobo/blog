@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Virgin Mary Sketch
+date: 2017-05-22
 img: 2017-virgin-mary-sketch.jpg
 thumbnail: 2017-virgin-mary-sketch-thumb.jpg
 comments: true
