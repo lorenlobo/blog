@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Animated Erik, Sketch
+date: 2024-10-10
 img: 2024-animated-erik-sketch.jpg
 thumbnail: 2024-animated-erik-sketch-thumb.jpg
 comments: true
