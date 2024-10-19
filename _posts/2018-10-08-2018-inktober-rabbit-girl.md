@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Masked Rabbit
+date: 2018-10-08
 img: 2018-inktober-rabbit-girl.jpg
 thumbnail: 2018-inktober-rabbit-girl-thumb.jpg
 comments: true
