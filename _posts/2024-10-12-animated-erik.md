@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Animated Erik
+date: 2024-10-12
 img: 2024-1988-animated-phantom-of-the-opera.jpg
 thumbnail: 2024-animated-erik-thumb.jpg
 comments: true
