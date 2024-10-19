@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Girl with Horns
+date: 2016-11-01
 img: 2016-girl-with-horns.jpg
 thumbnail: 2016-girl-with-horns-thumb.jpg
 comments: true
