@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loraine and Lilith
+date: 2016-07-01
 img: 2016-loraine-and-lilith.png
 thumbnail: 2016-loraine-and-lilith-thumb.jpg
 comments: true
