@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loren Avatar
+date: 2024-07-09
 img: 2024-loren-avatar.png
 thumbnail: 2024-loren-avatar-thumb.jpg
 comments: true
