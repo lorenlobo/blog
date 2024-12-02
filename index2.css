@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bentham&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 ::-moz-selection {
 	/* Code for Firefox */
@@ -110,7 +112,8 @@ p,
 span,
 a,
 div {
-   font-family: 'Montserrat', sans-serif!important;
+   font-family: "Josefin Sans", serif;
+   font-optical-sizing: auto;
    color: var(--text-color);
    transition: all .3s;
 }
@@ -241,6 +244,20 @@ div.photo img {
   background:var(--post);
 }
 
+html {
+	--text-color: azure;
+	--accent-color: #ffbf00;
+	--card-color: #080808;
+	--white-color: azure;
+	--black-color: #080808;
+	--bg-color: #67080b;
+	--shadows: rgba(1, 0, 19, 0.23);
+	--post: lavender;
+	--bio:rgba(11,3,23,.5);
+}
+
+
+/*
 html,
 html[data-theme="light"] {
 	--text-color: #000000;
@@ -290,7 +307,7 @@ html[data-theme="dark"] {
 		--post: whitesmoke;
 		--bio:rgba(245,245,245,.8);
 	}
-}
+}*/
 
 /*@media (max-width:1028px) {
         div.links { width:100%; }
