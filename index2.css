@@ -224,6 +224,7 @@ font-size:14px!important;
 
 .article a, .description a {
 font-weight:bold!important;
+text-decoration:underline!important;
 }
 
 .article a:hover, .pagination a:hover,
