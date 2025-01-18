@@ -20,12 +20,12 @@ html, body {
 }
 
 body {
-	border:10px solid var(--black-color);
+	/*border:10px solid var(--black-color);*/
 }
 
 .canvas {
 	background-color: var(--bg-color);
-	border:2px solid var(--text-color);
+	/*border:2px solid var(--text-color);*/
 }
 
 .rainbow {
