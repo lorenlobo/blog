@@ -1,5 +1,5 @@
 # Site Info
-title:              "Art by Lobo"
+title:              "Lobo's Art"
 description:        "Here are my favorite drawings"
 
 # Author Info
@@ -49,4 +49,5 @@ defaults:
       type:          "posts"
     values:
       layout:        "post"
+
 
