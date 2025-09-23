@@ -15,5 +15,5 @@ Here is the drawing with the cloth part of the mask filled in using Photoshop's 
 
  <div uk-lightbox="animation: fade">
      <p style="text-align:center;line-height: 135%;">
-	     <a href="/art/img/2024-book-cover-erik-sketch-filled.jpg" data-caption="{{ page.title }} by Eli Lobo, {{ page.date | date: '%B %Y' }}"><img src="/art/img/2024-book-cover-erik-sketch-filled.jpg" alt="{{ page.title }} by Eli Lobo" class="displayArt"></a></p>
+	     <a href="/blog/img/2024-book-cover-erik-sketch-filled.jpg" data-caption="{{ page.title }} by Lobo, {{ page.date | date: '%B %Y' }}"><img src="/blog/img/2024-book-cover-erik-sketch-filled.jpg" alt="{{ page.title }} by Lobo" class="displayArt"></a></p>
  </div>   
