@@ -5,11 +5,11 @@ date: 2025-07-12
 img: 2025-bass-guitar.jpg
 thumbnail: 2025-bass-guitar.jpg
 comments: true
-excerpt: "yippeee I’m learning bass guitar! my fingertips are sore 😁"
-year: 2024
+excerpt: "Yippeee I’m learning bass guitar! my fingertips are sore 😁"
+year: 2025
 ---
 
-<p>It's an Ibanez Mikro Short Scale! I've always wanted to learn an instrument, and I finally found one I </p>
+<p>It's an Ibanez Mikro! I felt like I should get a short scale to start because I have puny hands. I'm having so much fun learning the songs I've always loved. I made a <a href="https://youtube.com/playlist?list=PLFYJQTY_3J7pJV4ZJ0mWTnpk8UNVwTbC3&si=02WYIOOn9wAhfRaT" target="_blank">playlist on YouTube</a> of the ones I'm especially interested in.</p>
 
  <div uk-lightbox="animation: fade">
      <p style="text-align:center;line-height: 135%;">
