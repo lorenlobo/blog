@@ -71,9 +71,9 @@ div.links a.link, button.comment {
    width:46px;
 }
 
-.uk-link, a {
+/*.uk-link, a {
  text-decoration:underline!important;
-}
+}*/
 
 div.links a.link:hover, div.links a.link:active, button.comment:hover, button.comment:active {
    background-color: var(--accent-color);
